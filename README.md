@@ -1,4 +1,4 @@
-pomodo
+pomodoro
 ======
 
 Pomodoro CLI tool

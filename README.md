@@ -1,0 +1,4 @@
+pomodo
+======
+
+Pomodoro CLI tool
